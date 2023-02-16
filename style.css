@@ -1,0 +1,49 @@
+div.block {
+    margin: 30px 0px;
+    padding: 0px 50px;
+}
+
+div.aff {
+	margin: 50px 0px;
+	padding: 0px 50px;
+}
+
+label.rechercheT {
+	font-weight: bold;
+	font-size: 35px;
+}
+
+label.recherche {
+	display: inline-block;
+	width: 70%;
+	border: 1px solid black;
+	margin-left: 20px;
+	padding: 5px 10px;
+	line-height: 35px;
+	color: #555;
+	font-size: 30px;
+}
+
+label.recherche em {
+	font-style: normal; 
+	font-weight: bold;
+	color: #ff6800;
+}
+
+a.titre {
+    display: block;
+    font-size: 20px;
+    text-decoration:none; 
+    color: #1a0dab;
+    line-height: 1.3;
+}
+
+a.lien {
+    display: block;
+    color: green;
+}
+
+p.notFound {
+    color: #555;
+    font-size: 30px;
+}
